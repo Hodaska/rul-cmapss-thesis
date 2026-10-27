@@ -1,0 +1,42 @@
+C:\Users\Гейман Хуйдасевич\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\nn\modules\rnn.py:1011: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+FD001 окно 50, конфигурация 1 0 {'rmse': 14.804459641090665, 'mae': 10.765518679618836, 'score': 385.30321179046626, 'epochs': 22, 'fit_s': 48.78813195228577}
+C:\Users\Гейман Хуйдасевич\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\nn\modules\rnn.py:1011: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+FD001 окно 50, конфигурация 1 1 {'rmse': 15.056669109243524, 'mae': 11.113356795310974, 'score': 385.0083926829708, 'epochs': 24, 'fit_s': 45.394922971725464}
+FD001 окно 50, конфигурация 1 2 {'rmse': 15.562191390271044, 'mae': 11.41280249118805, 'score': 447.5606788593378, 'epochs': 17, 'fit_s': 34.467949867248535}
+C:\Users\Гейман Хуйдасевич\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\nn\modules\rnn.py:1011: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+FD001 окно 30, конфигурация 2 0 {'rmse': 15.473029273088263, 'mae': 11.363230023384094, 'score': 536.1299125206305, 'epochs': 33, 'fit_s': 91.73446583747864}
+FD001 окно 30, конфигурация 2 1 {'rmse': 15.14193566601687, 'mae': 11.450121879577637, 'score': 379.34653667875523, 'epochs': 25, 'fit_s': 65.90839791297913}
+FD001 окно 30, конфигурация 2 2 {'rmse': 15.075929017883489, 'mae': 11.133613576889038, 'score': 454.27101844573065, 'epochs': 25, 'fit_s': 66.8305172920227}
+C:\Users\Гейман Хуйдасевич\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\nn\modules\rnn.py:1011: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+FD002 окно 50, конфигурация 1 0 {'rmse': 24.852126992837032, 'mae': 16.627171798102182, 'score': 4887.8793263158195, 'epochs': 17, 'fit_s': 90.88027858734131}
+FD002 окно 50, конфигурация 1 1 {'rmse': 24.9393478270878, 'mae': 16.762212213862355, 'score': 4911.681521336451, 'epochs': 13, 'fit_s': 69.02534079551697}
+FD002 окно 50, конфигурация 1 2 {'rmse': 24.73650428296044, 'mae': 16.818693525542624, 'score': 4664.7119212456355, 'epochs': 17, 'fit_s': 81.45507740974426}
+C:\Users\Гейман Хуйдасевич\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\nn\modules\rnn.py:1011: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+FD002 окно 30, конфигурация 2 0 {'rmse': 26.302515158963935, 'mae': 17.690859380375926, 'score': 7556.3187144843705, 'epochs': 20, 'fit_s': 139.14893221855164}
+FD002 окно 30, конфигурация 2 1 {'rmse': 27.345437877638506, 'mae': 17.983641175229575, 'score': 9718.173308297195, 'epochs': 23, 'fit_s': 160.93064260482788}
+FD002 окно 30, конфигурация 2 2 {'rmse': 25.899505768744245, 'mae': 17.776158726813712, 'score': 7463.198733208541, 'epochs': 31, 'fit_s': 214.05283212661743}
+C:\Users\Гейман Хуйдасевич\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\nn\modules\rnn.py:1011: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+FD003 окно 50, конфигурация 1 0 {'rmse': 16.12742856465876, 'mae': 11.621177577972412, 'score': 734.5569492481332, 'epochs': 21, 'fit_s': 48.03745222091675}
+FD003 окно 50, конфигурация 1 1 {'rmse': 14.697416324086337, 'mae': 10.350699248313903, 'score': 504.2685844128041, 'epochs': 35, 'fit_s': 81.00185203552246}
+FD003 окно 50, конфигурация 1 2 {'rmse': 14.52632901724208, 'mae': 10.421210570335388, 'score': 407.32124539463354, 'epochs': 32, 'fit_s': 79.65355467796326}
+C:\Users\Гейман Хуйдасевич\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\nn\modules\rnn.py:1011: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+FD003 окно 30, конфигурация 2 0 {'rmse': 15.732550610440232, 'mae': 11.639552793502808, 'score': 523.8509695891537, 'epochs': 28, 'fit_s': 84.67709279060364}
+FD003 окно 30, конфигурация 2 1 {'rmse': 15.370170576279202, 'mae': 11.411777868270875, 'score': 395.035509520623, 'epochs': 50, 'fit_s': 155.89359998703003}
+FD003 окно 30, конфигурация 2 2 {'rmse': 15.2076547793182, 'mae': 11.365170016288758, 'score': 416.7989641227018, 'epochs': 43, 'fit_s': 138.57717943191528}
+C:\Users\Гейман Хуйдасевич\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\nn\modules\rnn.py:1011: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+FD004 окно 50, конфигурация 1 0 {'rmse': 25.97133290361833, 'mae': 18.336954812849722, 'score': 4602.742782754746, 'epochs': 20, 'fit_s': 118.15679454803467}
+FD004 окно 50, конфигурация 1 1 {'rmse': 25.527606937847104, 'mae': 17.387811541557312, 'score': 4189.426750785562, 'epochs': 32, 'fit_s': 201.527006149292}
+FD004 окно 50, конфигурация 1 2 {'rmse': 27.14973457294369, 'mae': 19.388159901865066, 'score': 5263.663747542235, 'epochs': 11, 'fit_s': 70.6506986618042}
+C:\Users\Гейман Хуйдасевич\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\nn\modules\rnn.py:1011: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+FD004 окно 30, конфигурация 2 0 {'rmse': 25.861283050920328, 'mae': 18.70995666134742, 'score': 4237.028775236584, 'epochs': 27, 'fit_s': 219.54669380187988}
+FD004 окно 30, конфигурация 2 1 {'rmse': 26.74870577933078, 'mae': 18.767675649735235, 'score': 5293.587737680448, 'epochs': 28, 'fit_s': 225.4944987297058}
+FD004 окно 30, конфигурация 2 2 {'rmse': 26.623405930403514, 'mae': 18.851756993801363, 'score': 5417.57434743514, 'epochs': 32, 'fit_s': 261.5397803783417}

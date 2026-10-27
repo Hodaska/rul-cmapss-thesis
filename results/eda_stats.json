@@ -1,0 +1,84 @@
+{
+ "FD001": {
+  "train_units": 100,
+  "test_units": 100,
+  "train_rows": 20631,
+  "test_rows": 13096,
+  "life_min": 128,
+  "life_mean": 206.31,
+  "life_max": 362,
+  "test_len_min": 31,
+  "rul_test_min": 7,
+  "rul_test_max": 145
+ },
+ "FD002": {
+  "train_units": 260,
+  "test_units": 259,
+  "train_rows": 53759,
+  "test_rows": 33991,
+  "life_min": 128,
+  "life_mean": 206.76538461538462,
+  "life_max": 378,
+  "test_len_min": 21,
+  "rul_test_min": 6,
+  "rul_test_max": 194
+ },
+ "FD003": {
+  "train_units": 100,
+  "test_units": 100,
+  "train_rows": 24720,
+  "test_rows": 16596,
+  "life_min": 145,
+  "life_mean": 247.2,
+  "life_max": 525,
+  "test_len_min": 38,
+  "rul_test_min": 6,
+  "rul_test_max": 145
+ },
+ "FD004": {
+  "train_units": 249,
+  "test_units": 248,
+  "train_rows": 61249,
+  "test_rows": 41214,
+  "life_min": 128,
+  "life_mean": 245.97991967871485,
+  "life_max": 543,
+  "test_len_min": 19,
+  "rul_test_min": 6,
+  "rul_test_max": 195
+ },
+ "constant_sensors_FD001": [
+  "s1",
+  "s5",
+  "s10",
+  "s16",
+  "s18",
+  "s19"
+ ],
+ "low_var_sensors_FD001": [
+  "s6"
+ ],
+ "corr_with_rul_FD001": {
+  "s1": null,
+  "s2": -0.6784582844138087,
+  "s3": -0.655030388486991,
+  "s4": -0.7571567446044734,
+  "s5": null,
+  "s6": -0.10828884295431779,
+  "s7": 0.7330210310750626,
+  "s8": -0.6245680273995373,
+  "s9": -0.46215091781290757,
+  "s10": null,
+  "s11": -0.775229821871158,
+  "s12": 0.7488698691357298,
+  "s13": -0.6240343312687711,
+  "s14": -0.3697525579251208,
+  "s15": -0.7208584828528034,
+  "s16": null,
+  "s17": -0.6808294987192683,
+  "s18": null,
+  "s19": null,
+  "s20": 0.7046255559265816,
+  "s21": 0.7073341478068336
+ }
+}

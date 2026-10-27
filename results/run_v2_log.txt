@@ -1,0 +1,34 @@
+C:\Users\Гейман Хуйдасевич\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\nn\modules\rnn.py:1011: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+FD001 LSTM v2 seed 0 {'rmse': 15.10523329863691, 'mae': 10.841099338531494, 'score': 412.7118292252225}
+C:\Users\Гейман Хуйдасевич\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\nn\modules\rnn.py:1011: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+FD001 LSTM v2 seed 1 {'rmse': 15.435181385404007, 'mae': 11.217014207839966, 'score': 433.8108463171528}
+FD001 LSTM v2 seed 2 {'rmse': 14.705190498363441, 'mae': 10.707295866012574, 'score': 374.5678379274028}
+FD001 LSTM v2 seed 3 {'rmse': 15.399269465692587, 'mae': 11.17992795944214, 'score': 407.4843163481967}
+FD001 LSTM v2 seed 4 {'rmse': 14.342453663849852, 'mae': 10.544145765304565, 'score': 408.6447462670997}
+FD001 {"rmse": 14.99746566238936, "mae": 10.897896627426146, "score": 407.44391521701493}
+C:\Users\Гейман Хуйдасевич\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\nn\modules\rnn.py:1011: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+FD002 LSTM v2 seed 0 {'rmse': 24.733018049240794, 'mae': 17.00279145489328, 'score': 4377.128423962805}
+FD002 LSTM v2 seed 1 {'rmse': 26.11612369254386, 'mae': 17.584178887739146, 'score': 6053.020222142643}
+FD002 LSTM v2 seed 2 {'rmse': 24.838219514146882, 'mae': 16.67179355474052, 'score': 4937.32443874957}
+FD002 LSTM v2 seed 3 {'rmse': 25.40009127402231, 'mae': 17.375335529504135, 'score': 5323.156889235526}
+FD002 LSTM v2 seed 4 {'rmse': 25.417393984033065, 'mae': 17.520333938156774, 'score': 4953.7557653423955}
+FD002 {"rmse": 25.300969302797384, "mae": 17.23088667300677, "score": 5128.877147886587}
+C:\Users\Гейман Хуйдасевич\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\nn\modules\rnn.py:1011: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+FD003 LSTM v2 seed 0 {'rmse': 14.818521868391372, 'mae': 9.898706319332122, 'score': 509.8024113451902}
+FD003 LSTM v2 seed 1 {'rmse': 14.403854230598633, 'mae': 10.00016818523407, 'score': 373.597114502787}
+FD003 LSTM v2 seed 2 {'rmse': 14.117907138926912, 'mae': 10.494688792228699, 'score': 321.73139404242454}
+FD003 LSTM v2 seed 3 {'rmse': 15.781502851733498, 'mae': 11.11156599521637, 'score': 747.7023152711827}
+FD003 LSTM v2 seed 4 {'rmse': 14.882218739681317, 'mae': 10.420372123718261, 'score': 630.768808073104}
+FD003 {"rmse": 14.800800965866348, "mae": 10.385100283145904, "score": 516.7204086469377}
+C:\Users\Гейман Хуйдасевич\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\nn\modules\rnn.py:1011: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+FD004 LSTM v2 seed 0 {'rmse': 25.9278612026111, 'mae': 18.03032773348593, 'score': 4108.55789838401}
+FD004 LSTM v2 seed 1 {'rmse': 25.105329343304824, 'mae': 17.366899603797542, 'score': 3966.8776366912575}
+FD004 LSTM v2 seed 2 {'rmse': 26.33259029776543, 'mae': 19.053183196052426, 'score': 4360.6701198723085}
+FD004 LSTM v2 seed 3 {'rmse': 24.974251932847775, 'mae': 17.64855008932852, 'score': 3813.2459490657952}
+FD004 LSTM v2 seed 4 {'rmse': 25.345009919545078, 'mae': 17.782223389994712, 'score': 3972.455793487424}
+FD004 {"rmse": 25.537008539214845, "mae": 17.976236802531826, "score": 4044.3614795001586}

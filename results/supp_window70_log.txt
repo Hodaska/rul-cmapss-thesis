@@ -1,0 +1,60 @@
+C:\Users\Гейман Хуйдасевич\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\nn\modules\rnn.py:1011: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+FD001 0 {'rf': 13.82, 'xgb': 14.54, 'lstm': 14.39}
+C:\Users\Гейман Хуйдасевич\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\nn\modules\rnn.py:1011: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+FD001 1 {'rf': 14.36, 'xgb': 14.7, 'lstm': 14.37}
+C:\Users\Гейман Хуйдасевич\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\nn\modules\rnn.py:1011: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+FD001 2 {'rf': 14.0, 'xgb': 14.63, 'lstm': 14.16}
+C:\Users\Гейман Хуйдасевич\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\nn\modules\rnn.py:1011: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+FD001 3 {'rf': 13.89, 'xgb': 14.35, 'lstm': 14.56}
+C:\Users\Гейман Хуйдасевич\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\nn\modules\rnn.py:1011: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+FD001 4 {'rf': 13.87, 'xgb': 14.16, 'lstm': 14.55}
+C:\Users\Гейман Хуйдасевич\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\nn\modules\rnn.py:1011: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+FD002 0 {'rf': 23.96, 'xgb': 23.49, 'lstm': 24.55}
+C:\Users\Гейман Хуйдасевич\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\nn\modules\rnn.py:1011: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+FD002 1 {'rf': 24.02, 'xgb': 23.58, 'lstm': 24.96}
+C:\Users\Гейман Хуйдасевич\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\nn\modules\rnn.py:1011: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+FD002 2 {'rf': 23.99, 'xgb': 23.54, 'lstm': 23.81}
+C:\Users\Гейман Хуйдасевич\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\nn\modules\rnn.py:1011: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+FD002 3 {'rf': 24.04, 'xgb': 23.53, 'lstm': 23.98}
+C:\Users\Гейман Хуйдасевич\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\nn\modules\rnn.py:1011: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+FD002 4 {'rf': 24.0, 'xgb': 23.54, 'lstm': 23.43}
+C:\Users\Гейман Хуйдасевич\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\nn\modules\rnn.py:1011: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+FD003 0 {'rf': 13.39, 'xgb': 13.32, 'lstm': 14.49}
+C:\Users\Гейман Хуйдасевич\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\nn\modules\rnn.py:1011: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+FD003 1 {'rf': 13.27, 'xgb': 13.33, 'lstm': 14.22}
+C:\Users\Гейман Хуйдасевич\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\nn\modules\rnn.py:1011: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+FD003 2 {'rf': 13.52, 'xgb': 13.11, 'lstm': 15.12}
+C:\Users\Гейман Хуйдасевич\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\nn\modules\rnn.py:1011: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+FD003 3 {'rf': 13.53, 'xgb': 13.48, 'lstm': 16.27}
+C:\Users\Гейман Хуйдасевич\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\nn\modules\rnn.py:1011: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+FD003 4 {'rf': 13.38, 'xgb': 13.3, 'lstm': 15.0}
+C:\Users\Гейман Хуйдасевич\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\nn\modules\rnn.py:1011: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+FD004 0 {'rf': 25.92, 'xgb': 25.71, 'lstm': 25.15}
+C:\Users\Гейман Хуйдасевич\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\nn\modules\rnn.py:1011: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+FD004 1 {'rf': 25.93, 'xgb': 25.57, 'lstm': 26.14}
+C:\Users\Гейман Хуйдасевич\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\nn\modules\rnn.py:1011: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+FD004 2 {'rf': 25.88, 'xgb': 25.75, 'lstm': 26.13}
+C:\Users\Гейман Хуйдасевич\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\nn\modules\rnn.py:1011: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+FD004 3 {'rf': 26.03, 'xgb': 25.82, 'lstm': 25.28}
+C:\Users\Гейман Хуйдасевич\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\nn\modules\rnn.py:1011: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+FD004 4 {'rf': 25.95, 'xgb': 25.83, 'lstm': 24.74}

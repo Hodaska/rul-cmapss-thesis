@@ -1,0 +1,66 @@
+C:\Users\Гейман Хуйдасевич\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\nn\modules\rnn.py:1011: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+10 125 {'fold': 0, 'seed': 0, 'rmse_last': 21.869633886835125, 'rmse_all': 18.472703332836883, 'inner_min_hist': 15.688431579213063, 'epochs': 17, 'fit_s': 438.6641664505005}
+C:\Users\Гейман Хуйдасевич\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\nn\modules\rnn.py:1011: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+10 125 {'fold': 0, 'seed': 1, 'rmse_last': 20.8991565576361, 'rmse_all': 18.31921506762815, 'inner_min_hist': 17.49450878301438, 'epochs': 22, 'fit_s': 38.208847999572754}
+10 125 {'fold': 1, 'seed': 0, 'rmse_last': 26.261828089146388, 'rmse_all': 19.725792579121826, 'inner_min_hist': 14.277484936962049, 'epochs': 23, 'fit_s': 146.83738207817078}
+10 125 {'fold': 1, 'seed': 1, 'rmse_last': 24.628182220369947, 'rmse_all': 18.597604828205274, 'inner_min_hist': 17.304793994885536, 'epochs': 23, 'fit_s': 176.05512499809265}
+10 125 {'fold': 2, 'seed': 0, 'rmse_last': 20.117173503278345, 'rmse_all': 16.64251696516266, 'inner_min_hist': 15.083500154319202, 'epochs': 17, 'fit_s': 25.750112771987915}
+10 125 {'fold': 2, 'seed': 1, 'rmse_last': 20.21457116310853, 'rmse_all': 16.592556970366573, 'inner_min_hist': 16.85067281596069, 'epochs': 22, 'fit_s': 54.329028844833374}
+C:\Users\Гейман Хуйдасевич\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\nn\modules\rnn.py:1011: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+20 125 {'fold': 0, 'seed': 0, 'rmse_last': 18.790521293654137, 'rmse_all': 16.2442350302955, 'inner_min_hist': 14.453361451737145, 'epochs': 24, 'fit_s': 186.21749782562256}
+20 125 {'fold': 0, 'seed': 1, 'rmse_last': 18.92229354278482, 'rmse_all': 16.872324172908385, 'inner_min_hist': 14.826123306651978, 'epochs': 26, 'fit_s': 504.029403924942}
+20 125 {'fold': 1, 'seed': 0, 'rmse_last': 20.8526078337374, 'rmse_all': 15.966259118005045, 'inner_min_hist': 14.442278611811943, 'epochs': 23, 'fit_s': 56.01586294174194}
+20 125 {'fold': 1, 'seed': 1, 'rmse_last': 18.694636126902942, 'rmse_all': 15.746470650516551, 'inner_min_hist': 14.060467511664127, 'epochs': 24, 'fit_s': 618.1485619544983}
+20 125 {'fold': 2, 'seed': 0, 'rmse_last': 18.16933177696507, 'rmse_all': 15.202417775409577, 'inner_min_hist': 15.027186837673387, 'epochs': 27, 'fit_s': 63.329662799835205}
+20 125 {'fold': 2, 'seed': 1, 'rmse_last': 18.13636561945258, 'rmse_all': 15.328986116194146, 'inner_min_hist': 14.52943421485589, 'epochs': 31, 'fit_s': 165.78196024894714}
+C:\Users\Гейман Хуйдасевич\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\nn\modules\rnn.py:1011: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+30 125 {'fold': 0, 'seed': 0, 'rmse_last': 16.793924961662533, 'rmse_all': 14.486443268692314, 'inner_min_hist': 12.483735701327491, 'epochs': 26, 'fit_s': 61.82825756072998}
+30 125 {'fold': 0, 'seed': 1, 'rmse_last': 15.541773792989066, 'rmse_all': 14.128837822552711, 'inner_min_hist': 11.733307968905976, 'epochs': 22, 'fit_s': 49.90877556800842}
+30 125 {'fold': 1, 'seed': 0, 'rmse_last': 16.41289996928776, 'rmse_all': 13.686146777743938, 'inner_min_hist': 12.829217265284493, 'epochs': 23, 'fit_s': 44.66675853729248}
+30 125 {'fold': 1, 'seed': 1, 'rmse_last': 17.488844945123354, 'rmse_all': 14.285996358187754, 'inner_min_hist': 12.300366584751417, 'epochs': 19, 'fit_s': 36.67299175262451}
+30 125 {'fold': 2, 'seed': 0, 'rmse_last': 17.36291306448284, 'rmse_all': 13.800343200413408, 'inner_min_hist': 12.92003320500115, 'epochs': 32, 'fit_s': 58.02201581001282}
+30 125 {'fold': 2, 'seed': 1, 'rmse_last': 16.379850814404445, 'rmse_all': 13.808400379150996, 'inner_min_hist': 10.942214983812255, 'epochs': 31, 'fit_s': 53.93956422805786}
+C:\Users\Гейман Хуйдасевич\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\nn\modules\rnn.py:1011: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+50 125 {'fold': 0, 'seed': 0, 'rmse_last': 15.312954629977305, 'rmse_all': 12.884813955288312, 'inner_min_hist': 12.007122829731252, 'epochs': 26, 'fit_s': 80.14693760871887}
+50 125 {'fold': 0, 'seed': 1, 'rmse_last': 14.92570880778746, 'rmse_all': 12.045818255065132, 'inner_min_hist': 10.630626625661787, 'epochs': 22, 'fit_s': 86.07515096664429}
+50 125 {'fold': 1, 'seed': 0, 'rmse_last': 16.22469070656047, 'rmse_all': 12.357650513605767, 'inner_min_hist': 10.594810947112288, 'epochs': 19, 'fit_s': 70.61679816246033}
+50 125 {'fold': 1, 'seed': 1, 'rmse_last': 15.215909238379949, 'rmse_all': 12.087220573205895, 'inner_min_hist': 10.824632817275589, 'epochs': 24, 'fit_s': 70.77394771575928}
+50 125 {'fold': 2, 'seed': 0, 'rmse_last': 14.5778697198873, 'rmse_all': 11.878628335661913, 'inner_min_hist': 11.123884857438755, 'epochs': 27, 'fit_s': 67.7900276184082}
+50 125 {'fold': 2, 'seed': 1, 'rmse_last': 14.674229969053052, 'rmse_all': 11.870006291585087, 'inner_min_hist': 9.110115122821245, 'epochs': 24, 'fit_s': 59.344552993774414}
+C:\Users\Гейман Хуйдасевич\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\nn\modules\rnn.py:1011: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+70 125 {'fold': 0, 'seed': 0, 'rmse_last': 13.43383972027659, 'rmse_all': 10.919138042526935, 'inner_min_hist': 11.630604505987172, 'epochs': 22, 'fit_s': 73.06806802749634}
+70 125 {'fold': 0, 'seed': 1, 'rmse_last': 13.791310494343563, 'rmse_all': 11.515054915347891, 'inner_min_hist': 9.898691973789978, 'epochs': 22, 'fit_s': 72.997731924057}
+70 125 {'fold': 1, 'seed': 0, 'rmse_last': 15.4609550218735, 'rmse_all': 11.867509876311923, 'inner_min_hist': 9.070563256967016, 'epochs': 19, 'fit_s': 65.74844098091125}
+70 125 {'fold': 1, 'seed': 1, 'rmse_last': 14.509597567817433, 'rmse_all': 12.02386785303357, 'inner_min_hist': 9.82876941098786, 'epochs': 31, 'fit_s': 109.55665588378906}
+70 125 {'fold': 2, 'seed': 0, 'rmse_last': 14.842455920076949, 'rmse_all': 12.862698368475519, 'inner_min_hist': 11.042480841426038, 'epochs': 21, 'fit_s': 101.53687620162964}
+70 125 {'fold': 2, 'seed': 1, 'rmse_last': 13.586465797713787, 'rmse_all': 11.773835862128008, 'inner_min_hist': 9.137119208173434, 'epochs': 21, 'fit_s': 101.64668083190918}
+C:\Users\Гейман Хуйдасевич\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\nn\modules\rnn.py:1011: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+50 None {'fold': 0, 'seed': 0, 'rmse_last': 23.3294235258652, 'rmse_all': 34.0335521773497, 'inner_min_hist': 53.92370586359062, 'epochs': 21, 'fit_s': 53.12064552307129}
+50 None {'fold': 0, 'seed': 1, 'rmse_last': 24.635139092423156, 'rmse_all': 35.15632852269338, 'inner_min_hist': 30.122870829177984, 'epochs': 21, 'fit_s': 55.36354207992554}
+50 None {'fold': 1, 'seed': 0, 'rmse_last': 30.51274408258718, 'rmse_all': 39.746654224237844, 'inner_min_hist': 28.530764825678517, 'epochs': 18, 'fit_s': 47.39529776573181}
+50 None {'fold': 1, 'seed': 1, 'rmse_last': 24.26549650282614, 'rmse_all': 38.281801934498766, 'inner_min_hist': 25.910742536901154, 'epochs': 24, 'fit_s': 63.678348779678345}
+50 None {'fold': 2, 'seed': 0, 'rmse_last': 24.36874926043687, 'rmse_all': 36.5315167885132, 'inner_min_hist': 30.583349613710876, 'epochs': 19, 'fit_s': 47.82928466796875}
+50 None {'fold': 2, 'seed': 1, 'rmse_last': 26.80026921324349, 'rmse_all': 41.46135937621531, 'inner_min_hist': 28.636945946206243, 'epochs': 22, 'fit_s': 55.53395175933838}
+C:\Users\Гейман Хуйдасевич\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\nn\modules\rnn.py:1011: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+50 100 {'fold': 0, 'seed': 0, 'rmse_last': 17.042643743766646, 'rmse_all': 7.598265929106014, 'inner_min_hist': 7.153349765492266, 'epochs': 26, 'fit_s': 75.6904227733612}
+50 100 {'fold': 0, 'seed': 1, 'rmse_last': 18.632995160144826, 'rmse_all': 8.166310504034014, 'inner_min_hist': 7.26101483639313, 'epochs': 20, 'fit_s': 70.43011236190796}
+50 100 {'fold': 1, 'seed': 0, 'rmse_last': 18.00675732729629, 'rmse_all': 8.15489458370852, 'inner_min_hist': 6.540852137384019, 'epochs': 33, 'fit_s': 118.82614612579346}
+50 100 {'fold': 1, 'seed': 1, 'rmse_last': 17.64447266879443, 'rmse_all': 7.34312285493621, 'inner_min_hist': 6.970118312966848, 'epochs': 24, 'fit_s': 87.53059101104736}
+50 100 {'fold': 2, 'seed': 0, 'rmse_last': 19.032361494193086, 'rmse_all': 7.852248216839276, 'inner_min_hist': 6.616292276630386, 'epochs': 23, 'fit_s': 76.34248399734497}
+50 100 {'fold': 2, 'seed': 1, 'rmse_last': 19.575673617309228, 'rmse_all': 8.182701260439492, 'inner_min_hist': 6.441621651707387, 'epochs': 20, 'fit_s': 50.0210964679718}
+C:\Users\Гейман Хуйдасевич\AppData\Local\Programs\Python\Python313\Lib\site-packages\torch\nn\modules\rnn.py:1011: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+50 150 {'fold': 0, 'seed': 0, 'rmse_last': 17.535807783145806, 'rmse_all': 17.223925739984587, 'inner_min_hist': 16.648581044696197, 'epochs': 21, 'fit_s': 54.61541533470154}
+50 150 {'fold': 0, 'seed': 1, 'rmse_last': 15.87710395970784, 'rmse_all': 16.828428049089926, 'inner_min_hist': 14.834093933395549, 'epochs': 20, 'fit_s': 52.39881443977356}
+50 150 {'fold': 1, 'seed': 0, 'rmse_last': 19.47449207292604, 'rmse_all': 17.74734754181316, 'inner_min_hist': 15.379086371798119, 'epochs': 25, 'fit_s': 68.47572946548462}
+50 150 {'fold': 1, 'seed': 1, 'rmse_last': 17.011075313273352, 'rmse_all': 16.9320510337029, 'inner_min_hist': 14.757854508047243, 'epochs': 24, 'fit_s': 65.84344220161438}
+50 150 {'fold': 2, 'seed': 0, 'rmse_last': 15.775597744693467, 'rmse_all': 16.20179255927599, 'inner_min_hist': 15.297690538396166, 'epochs': 19, 'fit_s': 49.00741147994995}
+50 150 {'fold': 2, 'seed': 1, 'rmse_last': 16.503261712216887, 'rmse_all': 16.736768057350652, 'inner_min_hist': 13.27459161054972, 'epochs': 32, 'fit_s': 79.21228051185608}
